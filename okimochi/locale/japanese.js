@@ -25,7 +25,6 @@ const emoji_to_BTC_map = {
   ":bitcoin:": lib.jpy2btc(20),
   ":pray:": lib.jpy2btc(20),
   ":okimochi:": lib.jpy2btc(20),
-  ":thankyou:": lib.jpy2btc(50),
   ":+1:": lib.jpy2btc(20),
   ":bow:": lib.jpy2btc(20),
   ":congratulations:": lib.jpy2btc(100),
